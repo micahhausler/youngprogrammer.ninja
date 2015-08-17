@@ -3,7 +3,7 @@ Golang class for young programmer ninjas
 
 ### skills
 
-* [Skill 0](skill1/README.md) - The basics: learning the terminal
+* [Skill 0](skill0/README.md) - The basics: learning the terminal
 
 <!---
 * [Skill 1](skill1/README.md)
