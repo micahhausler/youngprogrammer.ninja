@@ -19,12 +19,14 @@ Golang class for young programmer ninjas
 -->
 
 ## Setup
-To set up your computer, click the following links and install the programs:
+To set up your computer, click the following links and install the programs. They're all free and will not harm your computer.
 
 - Go Language - [golang.org](https://golang.org/doc/install)
 - Atom Text editor - [atom.io](https://atom.io/)
 - GoPlus package for atom [https://atom.io/packages/go-plus](https://atom.io/packages/go-plus)
+- GitHub Desktop - [github.com](https://desktop.github.com/) (Mac and Windows only)
 
+You'll need to create a GitHub account too! [https://github.com/join](https://github.com/join)
 
 
 ## Run a program
