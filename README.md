@@ -24,20 +24,27 @@ To set up your computer, click the following links and install the programs. The
 - Go Language - [golang.org](https://golang.org/doc/install)
 - Atom Text editor - [atom.io](https://atom.io/)
 - GoPlus package for atom [https://atom.io/packages/go-plus](https://atom.io/packages/go-plus)
+- Markdown Preview package for atom [https://atom.io/packages/markdown-preview](https://atom.io/packages/markdown-preview)
 - GitHub Desktop - [github.com](https://desktop.github.com/) (Mac and Windows only)
 
 You'll need to create a GitHub account too! [https://github.com/join](https://github.com/join)
 
 
 ## Run a program
-To test that go is installed correctly, navigate in your terminal to where this repository is, and run the command `go run main.go`.
+Have a look at **[skill 0](skill0/README.md)** first, then to test that Go is installed correctly, navigate in your terminal to where this repository is, and run the commands
+
+```
+go get github.com/micahhausler/youngprogrammer.ninja
+cd $GOPATH/src/github.com/micahhausler/youngprogrammer.ninja/
+go run main.go
+```
 
 If you see the output,
 
 ```
 Hello young programmer!
 ```
-then go has been installed correctly!
+then Go has been installed correctly!
 
 
 ## License
